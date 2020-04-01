@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab3.3</string>
+    <string name="x2">x2 +</string>
+    <string name="x1">x1 +</string>
+    <string name="x3">x3 +</string>
+    <string name="x4_y">x4 = </string>
+</resources>

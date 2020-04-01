@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab32</string>
+    <string name="perceptron">Perceptron</string>
+    <string name="info"> P := 4 \n A(0, 6) \n B(1,5) \n C(3,3) \n D(2,4)</string>
+    <string name="_1000">1000</string>
+    <string name="deadline">Deadline, s</string>
+    <string name="_1s">1</string>
+    <string name="_0_5s">0.5</string>
+    <string name="_2s">2</string>
+    <string name="learning_rate">Learning rate</string>
+    <string name="_0_01">0.01</string>
+    <string name="_0_3">0.3</string>
+    <string name="_100">100</string>
+    <string name="_5s">5</string>
+    <string name="_500">500</string>
+    <string name="_200">200</string>
+    <string name="iterations">Iterations</string>
+    <string name="_0_2">0.2</string>
+    <string name="_0_1">0.1</string>
+    <string name="_0_05">0.05</string>
+    <string name="_0_001">0.001</string>
+</resources>
